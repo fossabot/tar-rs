@@ -1,4 +1,6 @@
 # tar-rs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcomposefs%2Ftar-rs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcomposefs%2Ftar-rs?ref=badge_shield)
+
 
 [Documentation](https://docs.rs/tar)
 
@@ -68,6 +70,9 @@ This project is licensed under either of
    https://opensource.org/license/mit)
 
 at your option.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcomposefs%2Ftar-rs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcomposefs%2Ftar-rs?ref=badge_large)
 
 ### Contribution
 
